@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿En qué país se jugó el primer Mundial de Fútbol en 1930?",
+    "respuestas": ["Uruguay", "Argentina", "Brasil", "Italia"],
+    "respuesta_correcta": "Uruguay"
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Cuál fue la sede del Mundial de Fútbol en 1966?",
+    "respuestas": ["Alemania", "Argentina", "Inglaterra", "Francia"],
+    "respuesta_correcta": "Inglaterra"
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Quién ganó la Copa del Mundo de 1998?",
+    "respuestas": ["Brasil", "Italia", "Alemania", "Francia"],
+    "respuesta_correcta": "Francia"
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Quién fue el máximo goleador del Mundial de 2014?",
+    "respuestas": [
+      "Thomas Müller",
+      "Lionel Messi",
+      "Neymar Jr.",
+      "James Rodríguez"
+    ],
+    "respuesta_correcta": "James Rodríguez"
+  },
+  {
+    "id": 5,
+    "pregunta": "¿En qué país se celebró el Mundial de Fútbol en 1974?",
+    "respuestas": ["Argentina", "Alemania", "Italia", "Brasil"],
+    "respuesta_correcta": "Alemania"
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Quién fue el campeón del Mundial de Fútbol en 2006?",
+    "respuestas": ["Brasil", "Italia", "Francia", "Alemania"],
+    "respuesta_correcta": "Italia"
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Cuál es la sede del Mundial de Fútbol en 2022?",
+    "respuestas": ["Catar", "Rusia", "Brasil", "Francia"],
+    "respuesta_correcta": "Catar"
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Quién ganó la Copa del Mundo de 1958?",
+    "respuestas": ["Brasil", "Italia", "Francia", "Suecia"],
+    "respuesta_correcta": "Brasil"
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Quién fue el máximo goleador del Mundial de 1994?",
+    "respuestas": [
+      "Romário",
+      "Hristo Stoichkov",
+      "Roberto Baggio",
+      "Jurgen Klinsmann"
+    ],
+    "respuesta_correcta": "Hristo Stoichkov"
+  },
+  {
+    "id": 10,
+    "pregunta": "¿En qué país se jugó el Mundial de Fútbol en 1978?",
+    "respuestas": ["Argentina", "España", "México", "Alemania"],
+    "respuesta_correcta": "Argentina"
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Cuál fue el campeón del Mundial de Fútbol en 1990?",
+    "respuestas": ["Brasil", "Argentina", "Alemania", "Italia"],
+    "respuesta_correcta": "Alemania"
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Quién ganó la Copa del Mundo de 1962?",
+    "respuestas": ["Brasil", "Alemania", "Italia", "Chile"],
+    "respuesta_correcta": "Brasil"
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Quién fue el máximo goleador del Mundial de 2002?",
+    "respuestas": ["Ronaldo", "Miroslav Klose", "Rivaldo", "Michael Ballack"],
+    "respuesta_correcta": "Ronaldo"
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Cuál es la sede del Mundial de Fútbol en 2026?",
+    "respuestas": [
+      "Estados Unidos, México y Canadá",
+      "Inglaterra",
+      "Francia",
+      "Alemania"
+    ],
+    "respuesta_correcta": "Estados Unidos, México y Canadá"
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Quién ganó la Copa del Mundo de 1970?",
+    "respuestas": ["Alemania", "Argentina", "Brasil", "Italia"],
+    "respuesta_correcta": "Brasil"
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Quién fue el máximo goleador del Mundial de 1974?",
+    "respuestas": [
+      "Johan Cruyff",
+      "Gerd Müller",
+      "Grzegorz Lato",
+      "Johnny Rep"
+    ],
+    "respuesta_correcta": "Grzegorz Lato"
+  },
+  {
+    "id": 17,
+    "pregunta": "¿En qué país se jugó el Mundial de Fútbol en 1954?",
+    "respuestas": ["Alemania", "Suiza", "Francia", "Italia"],
+    "respuesta_correcta": "Suiza"
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Cuál fue el campeón del Mundial de Fútbol en 1938?",
+    "respuestas": ["Alemania", "Italia", "Brasil", "Francia"],
+    "respuesta_correcta": "Italia"
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Quién ganó la Copa del Mundo de 2010?",
+    "respuestas": ["España", "Países Bajos", "Alemania", "Argentina"],
+    "respuesta_correcta": "España"
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Quién fue el máximo goleador del Mundial de 1982?",
+    "respuestas": ["Paolo Rossi", "Karl-Heinz Rummenigge", "Zico", "Sócrates"],
+    "respuesta_correcta": "Paolo Rossi"
+  },
+  {
+    "id": 21,
+    "pregunta": "¿En qué país se jugó el Mundial de Fútbol en 1994?",
+    "respuestas": ["Estados Unidos", "México", "Italia", "Brasil"],
+    "respuesta_correcta": "Estados Unidos"
+  }
+]
